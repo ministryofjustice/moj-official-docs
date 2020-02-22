@@ -4,7 +4,7 @@ Date: 2020-02-22
 
 ## Status
 
-Proposed
+🤔 Proposed
 
 ## Context
 
@@ -16,8 +16,8 @@ help us remember why we made them, and to help teams working in related areas
 understand why we made them.
 
 We should make our decisions public so that other teams can find them more
-easily, and because [making things open makes things
-better](https://www.gov.uk/guidance/government-design-principles#make-things-open-it-makes-things-better).
+easily, and because [making things open makes things better]
+(https://www.gov.uk/guidance/government-design-principles#make-things-open-it-makes-things-better).
 
 This is a clone of the MoJ Cloud Platform's team ADR.
 
@@ -80,7 +80,7 @@ We will link to these ADRs from other documentation where relevant.
 One ADR describes one significant decision for the service. It should be
 something that has an effect on how the rest of the service will run.
 
-Architects, Engineers, Developers and service stakeholders (and anyone else 
+Architects, Engineers, Developers and service stakeholders (and anyone else
 who's interested) can see the ADRs, even as the team composition changes over time.
 
 The motivation behind previous decisions is visible for everyone, present and
@@ -92,12 +92,11 @@ Having a central place to record decisions which affect all of our work will
 make the sequence of decisions clear, and make it easier for us to refer back to
 decisions later on.
 
-This repo holds Architecture Decision Records, for the cloud platform team. We
+This repo holds Architecture Decision Records, for the MoJ OFFICIAL Technology team. We
 will be using the architecture decision record to help keep a record of what
 approaches we are currently taking to our infrastructure and to help our future
 selves understand why those decisions were made. The approach is described by
-Michael Nygard in [this
-article](http://thinkrelevance.com/blog/2011/11/15/documenting-architecture-decisions).
+Michael Nygard in [this article](http://thinkrelevance.com/blog/2011/11/15/documenting-architecture-decisions).
 
 Everyone can see the ADRs, even as the team composition changes over time. This
 means motivation behind previous decisions is visible for everyone, present and
