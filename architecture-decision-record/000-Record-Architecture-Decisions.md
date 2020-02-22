@@ -16,8 +16,7 @@ help us remember why we made them, and to help teams working in related areas
 understand why we made them.
 
 We should make our decisions public so that other teams can find them more
-easily, and because [making things open makes things better]
-(https://www.gov.uk/guidance/government-design-principles#make-things-open-it-makes-things-better).
+easily, and because [making things open makes things better](https://www.gov.uk/guidance/government-design-principles#make-things-open-it-makes-things-better).
 
 This is a clone of the MoJ Cloud Platform's team ADR.
 
