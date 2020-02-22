@@ -16,19 +16,15 @@ help us remember why we made them, and to help teams working in related areas
 understand why we made them.
 
 We should make our decisions public so that other teams can find them more
-easily, and because [making things open makes things better]
-(https://www.gov.uk/guidance/government-design-principles#make-things-open-it-makes-things-better).
+easily, and because [making things open makes things better](https://www.gov.uk/guidance/government-design-principles#make-things-open-it-makes-things-better).
 
 This is a clone of the MoJ Cloud Platform's team ADR.
 
 ## Decision
 
-We will use Architecture Decision Records, as described by Michael Nygard in
-[this
-article](http://thinkrelevance.com/blog/2011/11/15/documenting-architecture-decisions)
+We will use Architecture Decision Records, as described by Michael Nygard in [this article](http://thinkrelevance.com/blog/2011/11/15/documenting-architecture-decisions)
 
-An architecture decision record is a short text file describing a single
-decision.
+An architecture decision record is a short text file describing a single decision.
 
 We will keep ADRs in this public repository under decisions/[number]-[title].md
 
