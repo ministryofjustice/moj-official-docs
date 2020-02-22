@@ -1,7 +1,7 @@
-# Cloud Platform Architecture Decisions
+# MoJ OFFICIAL IT Architecture Decisions
 
 This is a record of architectural decisions made during the development of the
-Cloud Platform.
+MoJ OFFICIAL IT System.
 
 To understand why we are recording decisions and how we are doing it, please
 see [ADR-000](000-Record-Architecture-Decisions.md)
